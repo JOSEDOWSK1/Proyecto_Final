@@ -1,0 +1,119 @@
+583
+Isis Izquierdo
+73655199
+En servicio
+Obrero
+583
+583
+863
+Hanane Chamorro
+82667388
+Fuera de servicio
+Supervisor
+0
+0
+973
+Roberto Arias
+66590457
+Fuera de servicio
+Gerente
+0
+0
+886
+Juan Ignacio Camacho
+66879463
+Fuera de servicio
+Obrero
+0
+0
+912
+Estela Chaves
+76078455
+Fuera de servicio
+Supervisor
+0
+0
+333
+Pedro Jose Chaparro
+78966430
+Fuera de servicio
+Obrero
+0
+0
+218
+Maximino Tena
+88657398
+Fuera de servicio
+Gerente
+0
+0
+800
+Angel Luis Salas
+45792485
+Fuera de servicio
+Jefe
+0
+0
+773
+Ioan Escribano
+48967429
+Fuera de servicio
+Obrero
+0
+0
+10
+666
+Lucifer Areas
+79216662
+Fuera de servicio
+Jefe
+0
+0
+749
+Jacinto Cardenas
+43182965
+Fuera de servicio
+Gerente
+0
+0
+427
+Vera Lafuente
+38374526
+Fuera de servicio
+Obrero
+0
+0
+365
+Roger Navas
+74852369
+Fuera de servicio
+Obrero
+0
+0
+014
+Natalia Arana
+74185236
+Fuera de servicio
+Supervisor
+0
+0
+090
+Jorge Juan Lago
+74185236
+Fuera de servicio
+Gerente
+0
+0
+223
+Feliciana Perales
+74896322
+Fuera de servicio
+Supervisor
+0
+0
+
+Feliciana Perales
+74896322
+Fuera de servicio
+Supervisor
+0
